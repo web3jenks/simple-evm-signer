@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Quick Demo
 ![quick_demo](https://github.com/user-attachments/assets/27707dbf-e280-4b51-af2f-ee071b269a80)
 
+The page is live at: [https://web3jenks.github.io/simple-evm-signer/](https://web3jenks.github.io/simple-evm-signer/)
+
 ## Available Scripts
 
 In the project directory, you can run:
