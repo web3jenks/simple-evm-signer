@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-evm-signer/static/css/main.c836a00d.css",
+    "main.js": "/simple-evm-signer/static/js/main.f29156a4.js",
+    "static/js/453.238e2e7a.chunk.js": "/simple-evm-signer/static/js/453.238e2e7a.chunk.js",
+    "index.html": "/simple-evm-signer/index.html",
+    "main.c836a00d.css.map": "/simple-evm-signer/static/css/main.c836a00d.css.map",
+    "main.f29156a4.js.map": "/simple-evm-signer/static/js/main.f29156a4.js.map",
+    "453.238e2e7a.chunk.js.map": "/simple-evm-signer/static/js/453.238e2e7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c836a00d.css",
+    "static/js/main.f29156a4.js"
+  ]
+}
